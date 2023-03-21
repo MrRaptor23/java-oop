@@ -1,0 +1,15 @@
+C:\Users\сам\Desktop\Новая папка (2)\Itog\bin\Debug\net6.0\Itog.exe
+C:\Users\сам\Desktop\Новая папка (2)\Itog\bin\Debug\net6.0\Itog.deps.json
+C:\Users\сам\Desktop\Новая папка (2)\Itog\bin\Debug\net6.0\Itog.runtimeconfig.json
+C:\Users\сам\Desktop\Новая папка (2)\Itog\bin\Debug\net6.0\Itog.dll
+C:\Users\сам\Desktop\Новая папка (2)\Itog\bin\Debug\net6.0\Itog.pdb
+C:\Users\сам\Desktop\Новая папка (2)\Itog\obj\Debug\net6.0\Itog.csproj.AssemblyReference.cache
+C:\Users\сам\Desktop\Новая папка (2)\Itog\obj\Debug\net6.0\Itog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\сам\Desktop\Новая папка (2)\Itog\obj\Debug\net6.0\Itog.AssemblyInfoInputs.cache
+C:\Users\сам\Desktop\Новая папка (2)\Itog\obj\Debug\net6.0\Itog.AssemblyInfo.cs
+C:\Users\сам\Desktop\Новая папка (2)\Itog\obj\Debug\net6.0\Itog.csproj.CoreCompileInputs.cache
+C:\Users\сам\Desktop\Новая папка (2)\Itog\obj\Debug\net6.0\Itog.dll
+C:\Users\сам\Desktop\Новая папка (2)\Itog\obj\Debug\net6.0\refint\Itog.dll
+C:\Users\сам\Desktop\Новая папка (2)\Itog\obj\Debug\net6.0\Itog.pdb
+C:\Users\сам\Desktop\Новая папка (2)\Itog\obj\Debug\net6.0\Itog.genruntimeconfig.cache
+C:\Users\сам\Desktop\Новая папка (2)\Itog\obj\Debug\net6.0\ref\Itog.dll
