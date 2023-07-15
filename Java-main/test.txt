@@ -1,0 +1,10 @@
+HomeWork
+.idea
+Projects.iml
+.gitignore
+out
+.git
+README.md
+Lessons
+test.txt
+Lections
